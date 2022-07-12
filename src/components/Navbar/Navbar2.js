@@ -15,7 +15,7 @@ const Navbar2 = () => {
       <Navbar.Toggle aria-controls="basic-navbar-nav"><i class="fa-solid fa-sliders"></i></Navbar.Toggle>
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ms-auto">
-          <Link to='/'>
+          <Link to='/react-bondi/'>
           
             <Nav.Link href="#link" className='px-3'>Home</Nav.Link>
           
@@ -29,7 +29,7 @@ const Navbar2 = () => {
           
           <div className='d-none d-lg-block search p-2'><i class="ms-2 fa-solid fa-magnifying-glass"></i></div>
       
-        <Link to='/login' ><button className='btn btn-danger px-3 ms-2'>Login</button></Link>
+        <Link to='/react-bondi/login' ><button className='btn btn-danger px-3 ms-2'>Login</button></Link>
       
         </Nav>
       </Navbar.Collapse>

@@ -1,0 +1,271 @@
+:root{
+  --main-color: #19283F;
+  --green-color: #33D1CC;
+  --yellow-color: #FFC400;
+  --section-color: #EFF7FA;
+  --red:#FF3150;
+}
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+/* Navbar */
+.navbar{
+  background-color: var(--main-color);
+  color: #fff ;
+}
+
+.navbar .navbar-nav .nav-link{
+  color: #fff;
+}
+ 
+.navbar .navbar-nav .nav-link:focus,
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link:active{
+  color: var(--green-color) ;
+}
+
+
+.search{
+  border-left :1px solid var(--green-color) !important;
+  
+}
+
+.fa-solid.fa-magnifying-glass{
+  color: var(--green-color);
+}
+.btn.btn-danger{
+  border-radius: 50px;
+  color:var(--yellow-color)
+}
+
+.navbar .navbar-toggler{
+  color: #fff;
+  border-color: 5px solid #fff;
+}
+
+
+/* End Navbar */
+
+/* Start Loading */
+.loading{
+  background-color: var(--main-color);
+  min-height: 100vh;
+  
+}
+
+
+/* End Loading */
+
+/* Start Hero */
+
+.line-bottom{
+  border-bottom: 2px solid var(--green-color) ;
+}
+.feat .holder-icon{
+  height: 200px;
+  
+}
+.feat .holder-icon i {
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+
+.feat .holder-icon .number{
+  font-size: 12rem;
+  color: var(--section-color);
+
+}
+.feat .holder-icon .icon{
+  color: var(--green-color);
+  font-size: 65px;
+
+}
+.title-color{
+  color: var(--yellow-color);
+}
+
+/* End Hero */
+/* Start portfolio */
+
+.portfolio{
+  background-color: var(--section-color);
+}
+
+.portfolio .active{
+  background-color: var(--red);
+  color: #fff;
+}
+
+.portfolio .active:hover{
+  background-color: #c74a57;
+  color: #fff;
+}
+
+
+.portfolio ui li {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.portfolio ui li:hover {
+  color: var(--red);
+}
+
+.portfolio .box{
+  border: 5px solid #fff;
+  overflow: hidden;
+  position: relative;
+}
+.portfolio .box::before{
+  content: attr(data-work);
+  position: absolute;
+  background-color: #19283f8a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  font-weight: bold;
+  color: white;
+  transition: 0.3s;
+  font-size: 1.5rem;
+  transform: translateX(calc(-100% - 5px));
+}
+.portfolio .box:hover::before{
+
+  transform: translateX(0);
+
+}
+
+
+/* End portfolio */
+/* Start Team */
+.team{
+  background-color: var(--section-color);
+}
+.name{
+  background-color: var(--green-color);
+
+}
+
+
+
+
+/* End Team */
+/* Start Tech */
+.start{
+  background-color: var(--main-color);
+}
+
+
+/* End Tech */
+/* Start Top-Footer */
+.footer-top{
+  background-color: var(--yellow-color);
+}
+
+.footer-top input[type='text']{
+  border: none;
+  border-bottom: 1px solid white;
+}
+.footer-top input[type='text']{
+outline: none;
+}
+
+
+/* End Top-Footer */
+/* Start Footer */
+
+.footer{
+  background-color: var(--main-color);
+  color: #fff;
+}
+
+.created{
+  color: var(--green-color);
+}
+.Bondi{
+  color: var(--yellow-color);
+}
+
+.facebook{
+  color: #1877f2;
+}
+.twitter{
+  color: #1da1f2;
+}
+.linkedin{
+  color: #0077b5;
+}
+.youtube{
+  color: #ff0000;
+
+}
+
+
+/* End Footer */
+
+/* Start login */
+.input{
+
+  height: 50px;
+  border: none;
+  border-radius: 30px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+
+}
+.login{
+  background-color: var(--main-color);
+  min-height: 100vh;
+}
+
+
+
+/* End login */
+
+
+
+

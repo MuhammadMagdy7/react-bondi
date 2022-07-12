@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.c90023c0.css",
-    "main.js": "/static/js/main.3ab5b658.js",
-    "static/media/team-3.png": "/static/media/team-3.035e7b56e27351490e72.png",
-    "static/media/team-4.png": "/static/media/team-4.9ff85f752e9294bb2513.png",
-    "static/media/team-2.png": "/static/media/team-2.ea82fce5f81b3ac2f360.png",
-    "static/media/team-1.png": "/static/media/team-1.32e24519dfaed4fb7fa4.png",
-    "static/media/work-04.jpg": "/static/media/work-04.e4d0ab905618ce63ce66.jpg",
-    "static/media/work-01.jpg": "/static/media/work-01.92aa7efd124b1e56906a.jpg",
-    "static/media/blog-3.jpg": "/static/media/blog-3.665d4361cc09ce06dbb3.jpg",
-    "static/media/work-05.jpg": "/static/media/work-05.6d30e91f1deee185fd0f.jpg",
-    "static/media/work-02.jpg": "/static/media/work-02.01f5221aab7c4fd8baea.jpg",
-    "static/media/blog-2.jpg": "/static/media/blog-2.00d069e2c49c3620fcb3.jpg",
-    "static/media/work-07.jpg": "/static/media/work-07.70dd04967e5a625975f3.jpg",
-    "static/media/work-06.jpg": "/static/media/work-06.ce02bf2b7090fa12b70b.jpg",
-    "static/media/work-08.jpg": "/static/media/work-08.a03436f7f84f67f3bc4b.jpg",
-    "static/media/work-03.jpg": "/static/media/work-03.2f9f8d68cca44eb36671.jpg",
-    "static/media/blog-1.jpg": "/static/media/blog-1.219bf5657202a16bc209.jpg",
-    "static/media/laptop.png": "/static/media/laptop.3de6dc7c2d580cd485d4.png",
-    "index.html": "/index.html",
-    "main.c90023c0.css.map": "/static/css/main.c90023c0.css.map",
-    "main.3ab5b658.js.map": "/static/js/main.3ab5b658.js.map"
+    "main.css": "/react-bondi/static/css/main.c90023c0.css",
+    "main.js": "/react-bondi/static/js/main.40a03511.js",
+    "static/media/team-3.png": "/react-bondi/static/media/team-3.035e7b56e27351490e72.png",
+    "static/media/team-4.png": "/react-bondi/static/media/team-4.9ff85f752e9294bb2513.png",
+    "static/media/team-2.png": "/react-bondi/static/media/team-2.ea82fce5f81b3ac2f360.png",
+    "static/media/team-1.png": "/react-bondi/static/media/team-1.32e24519dfaed4fb7fa4.png",
+    "static/media/work-04.jpg": "/react-bondi/static/media/work-04.e4d0ab905618ce63ce66.jpg",
+    "static/media/work-01.jpg": "/react-bondi/static/media/work-01.92aa7efd124b1e56906a.jpg",
+    "static/media/blog-3.jpg": "/react-bondi/static/media/blog-3.665d4361cc09ce06dbb3.jpg",
+    "static/media/work-05.jpg": "/react-bondi/static/media/work-05.6d30e91f1deee185fd0f.jpg",
+    "static/media/work-02.jpg": "/react-bondi/static/media/work-02.01f5221aab7c4fd8baea.jpg",
+    "static/media/blog-2.jpg": "/react-bondi/static/media/blog-2.00d069e2c49c3620fcb3.jpg",
+    "static/media/work-07.jpg": "/react-bondi/static/media/work-07.70dd04967e5a625975f3.jpg",
+    "static/media/work-06.jpg": "/react-bondi/static/media/work-06.ce02bf2b7090fa12b70b.jpg",
+    "static/media/work-08.jpg": "/react-bondi/static/media/work-08.a03436f7f84f67f3bc4b.jpg",
+    "static/media/work-03.jpg": "/react-bondi/static/media/work-03.2f9f8d68cca44eb36671.jpg",
+    "static/media/blog-1.jpg": "/react-bondi/static/media/blog-1.219bf5657202a16bc209.jpg",
+    "static/media/laptop.png": "/react-bondi/static/media/laptop.3de6dc7c2d580cd485d4.png",
+    "index.html": "/react-bondi/index.html",
+    "main.c90023c0.css.map": "/react-bondi/static/css/main.c90023c0.css.map",
+    "main.40a03511.js.map": "/react-bondi/static/js/main.40a03511.js.map"
   },
   "entrypoints": [
     "static/css/main.c90023c0.css",
-    "static/js/main.3ab5b658.js"
+    "static/js/main.40a03511.js"
   ]
 }

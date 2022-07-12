@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-bondi/static/css/main.c90023c0.css",
-    "main.js": "/react-bondi/static/js/main.40a03511.js",
+    "main.js": "/react-bondi/static/js/main.523c57e6.js",
     "static/media/team-3.png": "/react-bondi/static/media/team-3.035e7b56e27351490e72.png",
     "static/media/team-4.png": "/react-bondi/static/media/team-4.9ff85f752e9294bb2513.png",
     "static/media/team-2.png": "/react-bondi/static/media/team-2.ea82fce5f81b3ac2f360.png",
@@ -20,10 +20,10 @@
     "static/media/laptop.png": "/react-bondi/static/media/laptop.3de6dc7c2d580cd485d4.png",
     "index.html": "/react-bondi/index.html",
     "main.c90023c0.css.map": "/react-bondi/static/css/main.c90023c0.css.map",
-    "main.40a03511.js.map": "/react-bondi/static/js/main.40a03511.js.map"
+    "main.523c57e6.js.map": "/react-bondi/static/js/main.523c57e6.js.map"
   },
   "entrypoints": [
     "static/css/main.c90023c0.css",
-    "static/js/main.40a03511.js"
+    "static/js/main.523c57e6.js"
   ]
 }
